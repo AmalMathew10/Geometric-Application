@@ -1,1 +1,1 @@
-# Geometric-Application
+In this aproject, I created a basic geometry application. Users will always have access to the square option, but if specific flags are set, they will also have access to the rectangle and triangle options. 
